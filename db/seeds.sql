@@ -1,10 +1,5 @@
-CREATE DATABASE burgers_db;
-USE burgers_db;
+INSERT INTO burger (burger_name, devoured) VALUES ("Sexy Burger",false);
 
-CREATE TABLE burgers
-(
-	id int NOT NULL AUTO_INCREMENT,
-	burger_name varchar(255) NOT NULL,
-	devoured BOOLEAN,
-	PRIMARY KEY (id)
-);
+INSERT INTO burger (burger_name, devoured) VALUES ("Cool As Beans Burger",false);
+
+INSERT INTO burger (burger_name, devoured) VALUES ('Mystery Meat Burger',false);
