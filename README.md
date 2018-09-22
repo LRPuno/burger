@@ -6,16 +6,16 @@ https://secure-oasis-25793.herokuapp.com/
 
 
 ##Technologies USED
-Animista - http://animista.net/
-GIMP
-MySQL
-Handlebars - http://handlebarsjs.com/
-body-parser NPM Package - https://www.npmjs.com/package/inquirer
-express NPM Package - https://www.npmjs.com/package/express
-mysql NPM Package - https://www.npmjs.com/package/mysql
-handlebars NPM Package - https://www.npmjs.com/package/handlebars
-express-handlbars NPM Package - https://www.npmjs.com/package/express-handlebars
-JawsDB- https://elements.heroku.com/addons/jawsdb
+* Animista - http://animista.net/
+* GIMP
+* MySQL
+* Handlebars - http://handlebarsjs.com/
+* body-parser NPM Package - https://www.npmjs.com/package/inquirer
+* express NPM Package - https://www.npmjs.com/package/express
+* mysql NPM Package - https://www.npmjs.com/package/mysql
+* handlebars NPM Package - https://www.npmjs.com/package/handlebars
+* express-handlbars NPM Package - https://www.npmjs.com/package/express-handlebars
+* JawsDB- https://elements.heroku.com/addons/jawsdb
 
 ##Prerequisites
 - Node.js - Download the latest version of Node https://nodejs.org/en/
